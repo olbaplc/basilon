@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(29.41, 29.41, 29.41);
+
+}
+.links{
+    font-style: Typewriter;
+    color: rgb(41.96, 90.98, 76.47);
+    font-size: 125%;
+    line-height: 100%;
+}
+div{
+    padding-top: 3px;
+    padding-left: 17.5px;
+}
