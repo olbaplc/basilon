@@ -9,6 +9,7 @@ color: rgb(41.96, 90.98, 76.47);
 }
 table{
     float: inline-start;
+    align-content: center;
 }
 tr{
     float: inline-start;
