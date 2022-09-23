@@ -1,16 +1,17 @@
 body{
     background-color: rgb(29.41, 29.41, 29.41);
     font-style: Typewriter;
-    
     font-size: 125%;
     line-height: 100%;
 }
 .links{
 color: rgb(41.96, 90.98, 76.47);
 }
-div{
-    padding-top: 3px;
-    padding-left: 17.5px;
+table{
+    float: inline-start;
+}
+tr{
+    float: inline-start;
 }
 
 
@@ -36,6 +37,6 @@ input::placeholder {
     font-weight: 500;
 }
 img{
-    width: 30%;
+    width: 250px;
     height: 250px;
 }
