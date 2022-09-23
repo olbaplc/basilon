@@ -1,14 +1,41 @@
 body{
     background-color: rgb(29.41, 29.41, 29.41);
-
-}
-.links{
     font-style: Typewriter;
-    color: rgb(41.96, 90.98, 76.47);
+    
     font-size: 125%;
     line-height: 100%;
+}
+.links{
+color: rgb(41.96, 90.98, 76.47);
 }
 div{
     padding-top: 3px;
     padding-left: 17.5px;
+}
+
+
+input[type="search"] {
+    background: transparent;
+    padding: 10px 20px;
+    color: var(--name);
+    font-weight: 500;
+    display: inline-block;
+    border: none;
+    font-size: 1.1em;
+    box-sizing: border-box;
+}
+
+input[type="search"]:hover,
+input[type="search"]:active,
+input[type="search"]:focus {
+    outline: none;
+}
+
+input::placeholder {
+    color: rgba(255, 255, 255, 0.7);
+    font-weight: 500;
+}
+img{
+    width: 30%;
+    height: 250px;
 }

@@ -1,6 +1,6 @@
 var audio = new Audio("lessgo.mp3");
 
-document.onclick = function() {
+document.onmousedown = function() {
   audio.play();
 }
 
