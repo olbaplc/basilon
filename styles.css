@@ -19,7 +19,7 @@ tr{
 input[type="search"] {
     background: transparent;
     padding: 10px 20px;
-    color: var(--name);
+    color: rgb(41.96, 90.98, 76.47);
     font-weight: 500;
     display: inline-block;
     border: none;
@@ -34,7 +34,7 @@ input[type="search"]:focus {
 }
 
 input::placeholder {
-    color: rgba(255, 255, 255, 0.7);
+    color: rgb(41.96, 90.98, 76.47);
     font-weight: 500;
 }
 img{
